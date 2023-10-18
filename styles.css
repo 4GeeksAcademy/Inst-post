@@ -25,26 +25,9 @@ body {
     align-self: center;
 }
 
-.html {
-    font-size: 30px;
-    
-}
-
-.menu {
-    font-size: 25px;
-}
-
-.left h1 {
-    font-size: 20px;
-}
-
 .letras-post {
     margin-left: 10px;
     font-size: 7px;
-}
-
-.left p {
-    margin-top: -10px;
 }
 
 .landscape {
