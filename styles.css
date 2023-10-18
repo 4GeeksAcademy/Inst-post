@@ -2,45 +2,55 @@ body {
     background-color: black;
 
 }
+
 .post {
     background-color: white;
     width: 30%;
     margin: auto;
 }
+
 .post-header {
     display: flex;
     justify-content: space-between;
 }
+
 .html-logo {
     display: flex;
     align-self: center;
     margin-left: 10px;
-
 }
+
 .ellipsis {
     margin-right: 10px;
     align-self: center;
 }
+
 .html {
     font-size: 30px;
     
 }
+
 .menu {
     font-size: 25px;
 }
+
 .left h1 {
     font-size: 20px;
 }
+
 .letras-post {
     margin-left: 10px;
     font-size: 7px;
 }
+
 .left p {
     margin-top: -10px;
 }
+
 .landscape {
     width: 100%;  
 }
+
 .body-icons {
     display: flex;
     justify-content: space-between;
@@ -51,13 +61,12 @@ body {
 .left-bodyicons {
     margin-left: 10px;
 }
+
 .right-bodyicons {
     margin-right: 10px;
 }
+
 .body-text {
     margin-left: 10px;
     margin-right: 10px;
-    font-family: 'roboto';
-    
-    
 }
